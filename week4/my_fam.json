@@ -1,0 +1,13 @@
+{
+  "children": [
+    "Summer",
+    "Morty"
+  ],
+  "grandparent": [
+    "Rick"
+  ],
+  "parents": [
+    "Beth",
+    "Jerry"
+  ]
+}
